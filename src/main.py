@@ -1,7 +1,7 @@
 import asyncio
 from urllib.parse import quote_plus
 import aiohttp
-import dotenv
+import python-dotenv as dotenv
 import os
 import sqlite3
 import time
